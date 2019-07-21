@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [SpiridonovVS](README.md)
+* [BLESS](bless.md)
+* [VOLARE.band](volare.band.md)
 
