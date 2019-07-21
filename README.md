@@ -4,7 +4,9 @@ description: About me
 
 # SpiridonovVS
 
-![https://www.instagram.com/spiridonovvs/](.gitbook/assets/photo_2019-07-22_03-35-21.jpg)
+![](.gitbook/assets/photo_2019-07-22_03-35-21.jpg)
+
+
 
 ### Социальные сети
 
